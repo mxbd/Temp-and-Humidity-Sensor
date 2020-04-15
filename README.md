@@ -22,7 +22,6 @@
 ## Set-Up
 
 <img src="images/Display.jpg" width="500" >
-
 Displaying Values on the 16 x 02 LCD
 
 <img src="images/Housing.jpg" width="500" >
