@@ -13,6 +13,8 @@
 
 1x DHT11 Sensor
 
+1x 4-AA Batteryholder
+
 ## Description:
 
 ## Schematic
@@ -25,4 +27,4 @@ Displaying Values on the 16 x 02 LCD
 
 <img src="images/Housing.jpg" width="500" >
 
-Electronics housing with sensor
+Electronics housing with sensor (battery power Supply removed)
